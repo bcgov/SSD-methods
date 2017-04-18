@@ -32,12 +32,12 @@ library(VGAM) # for the gompertz, pareto, gumbel distributions
 
 
 
-#source("mygofstat.r")  # corrects and error in the code in the fistdistr package (groan)
-source("C:/R-repositories/SSD-fitting/CCME-fits/mygofstat.r")
+source("mygofstat.r")  # corrects and error in the code in the fistdistr package (groan)
+#source("C:/R-repositories/SSD-fitting/CCME-fits/mygofstat.r")
 
 #load test data
-#endpoints<-read.csv("CCME data.csv",header=TRUE,as.is=TRUE, strip.white=TRUE)
-endpoints<- read_csv("C:/R-repositories/SSD-fitting/CCME-fits/CCME data.csv")
+endpoints<-read.csv("CCME data.csv",header=TRUE,as.is=TRUE, strip.white=TRUE)
+#endpoints<- read_csv("C:/R-repositories/SSD-fitting/CCME-fits/CCME data.csv")
 
 head(endpoints)
 
