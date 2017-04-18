@@ -1,0 +1,44 @@
+Chemical,Species,Group,Conc
+Cd,Ambystoma gracile,Amphibian,209
+Cd,Cottus bairdi,Fish (non-salmonid),0.76
+Cd,Pimephales promelas,Fish (non-salmonid),2.18
+Cd,Acipenser transmontanus,Fish (non-salmonid),6.79
+Cd,Catostomus commersoni,Fish (non-salmonid),13
+Cd,Esox lucius,Fish (non-salmonid),13.9
+Cd,Oncorhynchus mykiss,Fish (salmonid),0.24
+Cd,Salvelinus confluentus,Fish (salmonid),1.13
+Cd,Salmo trutta,Fish (salmonid),1.29
+Cd,Prosopium williamsoni,Fish (salmonid),1.33
+Cd,Salmo trutta,Fish (salmonid),1.75
+Cd,Oncorhynchus tshawytscha,Fish (salmonid),2.13
+Cd,Oncorhynchus tshawytscha,Fish (salmonid),2.3
+Cd,Salmo trutta,Fish (salmonid),2.93
+Cd,Salmo trutta,Fish (salmonid),3.09
+Cd,Prosopium williamsoni,Fish (salmonid),3.12
+Cd,Salmo trutta,Fish (salmonid),3.19
+Cd,Oncorhynchus kisutch,Fish (salmonid),3.67
+Cd,Salvelinus fontinalis,Fish (salmonid),4.53
+Cd,Salmo trutta,Fish (salmonid),6.09
+Cd,Salvelinus fontinalis,Fish (salmonid),7.49
+Cd,Salvelinus fontinalis,Fish (salmonid),7.92
+Cd,Salvelinus fontinalis,Fish (salmonid),12.5
+Cd,Salvelinus namaycush,Fish (salmonid),13.3
+Cd,Oncorhynchus kisutch,Fish (salmonid),13.5
+Cd,Oncorhynchus kisutch,Fish (salmonid),13.5
+Cd,Ceriodaphnia reticulata,Invertebrate,0.07
+Cd,Daphnia pulex,Invertebrate,0.12
+Cd,Hyalella azteca,Invertebrate,0.25
+Cd,Daphnia magna,Invertebrate,0.31
+Cd,Hyalella azteca,Invertebrate,0.33
+Cd,Chironomus dilutus,Invertebrate,1.13
+Cd,Hydra viridissima,Invertebrate,1.6
+Cd,Echinogammarus meridionalis,Invertebrate,1.92
+Cd,Gammarus pulex,Invertebrate,2.29
+Cd,Ceriodaphnia dubia,Invertebrate,8.85
+Cd,Hydra vulgaris,Invertebrate,25
+Cd,Pseudokirchneriella subcapitata,Plant,23.3
+Cd,Pseudokirchneriella subcapitata,Plant,31.1
+Cd,Pseudokirchneriella subcapitata,Plant,37.1
+Cd,Pseudokirchneriella subcapitata,Plant,59.5
+Cd,Lemna minor,Plant,88.5
+Cd,Lemna minor,Plant,162
