@@ -18,7 +18,7 @@
 library(fitdistrplus)
 library(ggplot2)
 
-# (1) load of data and how the first few records
+# (1) load of endosulfan example data (included in the fitdistrplus package) and review the first few records
 #
 data(endosulfan)
 head(endosulfan)
