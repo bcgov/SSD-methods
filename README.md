@@ -4,7 +4,7 @@ This is a set of [R](http://www.r-project.org) scripts that can be used to fit a
 
 ## Project Status
 
-This project is under development.  
+This project has been archived.  Please see the ssdtools repository for our current work on SSD method development.  
 
 # License
 
